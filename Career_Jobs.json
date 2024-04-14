@@ -1,0 +1,1379 @@
+[
+    {
+        "Company": "Company",
+        "Domain": [
+            "https://Domain"
+        ],
+        "Terms of Service": [
+            "Career / Jobs Page"
+        ]
+    },
+    {
+        "Company": "Wondershare",
+        "Domain": [
+            "https://wondershare.com"
+        ],
+        "Terms of Service": [
+            "https://www.wondershare.com/about/careers.html"
+        ]
+    },
+    {
+        "Company": "VMware",
+        "Domain": [
+            "https://vmware.com"
+        ],
+        "Terms of Service": [
+            "https://www.broadcom.com/company/careers"
+        ]
+    },
+    {
+        "Company": "HubSpot",
+        "Domain": [
+            "https://hubspot.com"
+        ],
+        "Terms of Service": [
+            "https://www.hubspot.com/careers"
+        ]
+    },
+    {
+        "Company": "SAP",
+        "Domain": [
+            "https://sap.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.sap.com/"
+        ]
+    },
+    {
+        "Company": "Instructure",
+        "Domain": [
+            "https://instructure.com"
+        ],
+        "Terms of Service": [
+            "https://www.instructure.com/about/careers"
+        ]
+    },
+    {
+        "Company": "Vantage Circle",
+        "Domain": [
+            "https://vantagecircle.com"
+        ],
+        "Terms of Service": [
+            "https://www.vantagecircle.com/careers/"
+        ]
+    },
+    {
+        "Company": "Shopify",
+        "Domain": [
+            "https://shopify.com"
+        ],
+        "Terms of Service": [
+            "https://www.shopify.com/careers"
+        ]
+    },
+    {
+        "Company": "Flickr",
+        "Domain": [
+            "https://flickr.com"
+        ],
+        "Terms of Service": [
+            "https://www.flickr.com/jobs/"
+        ]
+    },
+    {
+        "Company": "Embarcadero",
+        "Domain": [
+            "https://embarcadero.com"
+        ],
+        "Terms of Service": [
+            "https://www.embarcadero.com/company/careers"
+        ]
+    },
+    {
+        "Company": "Crunchbase",
+        "Domain": [
+            "https://crunchbase.com"
+        ],
+        "Terms of Service": [
+            "https://about.crunchbase.com/about-us/careers/"
+        ]
+    },
+    {
+        "Company": "Solarwinds",
+        "Domain": [
+            "https://solarwinds.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.solarwinds.com/"
+        ]
+    },
+    {
+        "Company": "Dropbox",
+        "Domain": [
+            "https://dropbox.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.dropbox.com/"
+        ]
+    },
+    {
+        "Company": "MediaBrains",
+        "Domain": [
+            "https://mediabrains.com"
+        ],
+        "Terms of Service": [
+            "\"https://www.indeed.com/cmp/Mediabrains"
+        ]
+    },
+    {
+        "Company": "Syncfusion",
+        "Domain": [
+            "https://syncfusion.com"
+        ],
+        "Terms of Service": [
+            "https://www.syncfusion.com/company/careers"
+        ]
+    },
+    {
+        "Company": "Cision",
+        "Domain": [
+            "https://cision.com"
+        ],
+        "Terms of Service": [
+            "https://www.cision.com/careers/career-listing/"
+        ]
+    },
+    {
+        "Company": "Thomas",
+        "Domain": [
+            "https://thomasnet.com"
+        ],
+        "Terms of Service": [
+            "https://www.thomasnet.com/careers/"
+        ]
+    },
+    {
+        "Company": "Eclipse",
+        "Domain": [
+            "https://eclipse.org"
+        ],
+        "Terms of Service": [
+            "https://www.eclipse.org/careers/"
+        ]
+    },
+    {
+        "Company": "Vimeo",
+        "Domain": [
+            "https://vimeo.com"
+        ],
+        "Terms of Service": [
+            "https://vimeo.com/careers"
+        ]
+    },
+    {
+        "Company": "Evanto",
+        "Domain": [
+            "https://envato.com"
+        ],
+        "Terms of Service": [
+            "https://www.envato.com/about/careers/"
+        ]
+    },
+    {
+        "Company": "Canva",
+        "Domain": [
+            "https://canva.com"
+        ],
+        "Terms of Service": [
+            "https://www.lifeatcanva.com/en"
+        ]
+    },
+    {
+        "Company": "GoDaddy",
+        "Domain": [
+            "https://godaddy.com"
+        ],
+        "Terms of Service": [
+            "https://careers.godaddy/"
+        ]
+    },
+    {
+        "Company": "Typeform",
+        "Domain": [
+            "https://typeform.com"
+        ],
+        "Terms of Service": [
+            "https://www.typeform.com/careers/"
+        ]
+    },
+    {
+        "Company": "VK",
+        "Domain": [
+            "https://vk.com"
+        ],
+        "Terms of Service": [
+            "https://vk.com/jobs"
+        ]
+    },
+    {
+        "Company": "Oracle",
+        "Domain": [
+            "https://oracle.com"
+        ],
+        "Terms of Service": [
+            "https://www.oracle.com/careers/"
+        ]
+    },
+    {
+        "Company": "Comodo",
+        "Domain": [
+            "https://comodo.com"
+        ],
+        "Terms of Service": [
+            "https://www.comodo.com/careers/"
+        ]
+    },
+    {
+        "Company": "Mailchimp",
+        "Domain": [
+            "https://mailchimp.com"
+        ],
+        "Terms of Service": [
+            "https://mailchimp.com/jobs/teams/"
+        ]
+    },
+    {
+        "Company": "IBM",
+        "Domain": [
+            "https://ibm.com"
+        ],
+        "Terms of Service": [
+            "https://www.ibm.com/careers"
+        ]
+    },
+    {
+        "Company": "Moz",
+        "Domain": [
+            "https://moz.com"
+        ],
+        "Terms of Service": [
+            "https://moz.com/about/jobs"
+        ]
+    },
+    {
+        "Company": "Hootsuite",
+        "Domain": [
+            "https://hootsuite.com"
+        ],
+        "Terms of Service": [
+            "https://careers.hootsuite.com/"
+        ]
+    },
+    {
+        "Company": "Ubuntu",
+        "Domain": [
+            "https://ubuntu.com"
+        ],
+        "Terms of Service": [
+            "https://pages.ubuntu.com/employee_engagement_campaign.html"
+        ]
+    },
+    {
+        "Company": "Pocket",
+        "Domain": [
+            "https://getpocket.com"
+        ],
+        "Terms of Service": [
+            "https://getpocket.com/en/jobs/"
+        ]
+    },
+    {
+        "Company": "Zendesk",
+        "Domain": [
+            "https://zendesk.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.zendesk.com/us/en"
+        ]
+    },
+    {
+        "Company": "Zoom",
+        "Domain": [
+            "https://zoom.us"
+        ],
+        "Terms of Service": [
+            "https://careers.zoom.us/"
+        ]
+    },
+    {
+        "Company": "Semrush",
+        "Domain": [
+            "https://semrush.com"
+        ],
+        "Terms of Service": [
+            "https://careers.semrush.com/"
+        ]
+    },
+    {
+        "Company": "WPEngine",
+        "Domain": [
+            "https://wpengine.com"
+        ],
+        "Terms of Service": [
+            "https://wpengine.careers/"
+        ]
+    },
+    {
+        "Company": "Slack",
+        "Domain": [
+            "https://slack.com"
+        ],
+        "Terms of Service": [
+            "https://slack.com/careers"
+        ]
+    },
+    {
+        "Company": "Pingdom",
+        "Domain": [
+            "https://pingdom.com"
+        ],
+        "Terms of Service": [
+            "https://careers-pingdom.icims.com/jobs/intro"
+        ]
+    },
+    {
+        "Company": "Future",
+        "Domain": [
+            "https://futureplc.com"
+        ],
+        "Terms of Service": [
+            "https://futureplc.com/careers/"
+        ]
+    },
+    {
+        "Company": "Trello",
+        "Domain": [
+            "https://trello.com"
+        ],
+        "Terms of Service": [
+            "https://www.atlassian.com/company/careers/trello"
+        ]
+    },
+    {
+        "Company": "Libsyn",
+        "Domain": [
+            "https://libsyn.com"
+        ],
+        "Terms of Service": [
+            "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c68ab5129a018af3e7f01f2031"
+        ]
+    },
+    {
+        "Company": "Ahrefs",
+        "Domain": [
+            "https://ahrefs.com"
+        ],
+        "Terms of Service": [
+            "https://ahrefs.com/jobs"
+        ]
+    },
+    {
+        "Company": "Palo Alto Networks",
+        "Domain": [
+            "https://paloalto.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.paloaltonetworks.com/"
+        ]
+    },
+    {
+        "Company": "Red Hat",
+        "Domain": [
+            "https://redhat.com"
+        ],
+        "Terms of Service": [
+            "https://www.redhat.com/en/jobs"
+        ]
+    },
+    {
+        "Company": "G2",
+        "Domain": [
+            "https://g2.com"
+        ],
+        "Terms of Service": [
+            "https://company.g2.com/careers"
+        ]
+    },
+    {
+        "Company": "GNOME",
+        "Domain": [
+            "https://gnome.org"
+        ],
+        "Terms of Service": [
+            "https://foundation.gnome.org/careers/"
+        ]
+    },
+    {
+        "Company": "Salesforce",
+        "Domain": [
+            "https://salesforce.com"
+        ],
+        "Terms of Service": [
+            "https://careers.salesforce.com/en/"
+        ]
+    },
+    {
+        "Company": "Meetup",
+        "Domain": [
+            "https://meetup.com"
+        ],
+        "Terms of Service": [
+            "https://www.meetup.com/careers/"
+        ]
+    },
+    {
+        "Company": "Radicas Software",
+        "Domain": [
+            "https://radicasoftware.com"
+        ],
+        "Terms of Service": [
+            "https://radicasoftware.com/career"
+        ]
+    },
+    {
+        "Company": "Nexcess",
+        "Domain": [
+            "https://nexcess.net"
+        ],
+        "Terms of Service": [
+            "https://www.nexcess.net/about/careers/"
+        ]
+    },
+    {
+        "Company": "Cisco",
+        "Domain": [
+            "https://cisco.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.cisco.com/"
+        ]
+    },
+    {
+        "Company": "OneTrust",
+        "Domain": [
+            "https://onetrust.com"
+        ],
+        "Terms of Service": [
+            "https://www.onetrust.com/careers/"
+        ]
+    },
+    {
+        "Company": "Evernote",
+        "Domain": [
+            "https://evernote.com"
+        ],
+        "Terms of Service": [
+            "https://www.indeed.com/cmp/Evernote"
+        ]
+    },
+    {
+        "Company": "Devolutions",
+        "Domain": [
+            "https://devolutions.net"
+        ],
+        "Terms of Service": [
+            "https://devolutions.net/company/positions/"
+        ]
+    },
+    {
+        "Company": "Smartsheet",
+        "Domain": [
+            "https://smartsheet.com"
+        ],
+        "Terms of Service": [
+            "https://www.smartsheet.com/careers"
+        ]
+    },
+    {
+        "Company": "CDC",
+        "Domain": [
+            "https://cdc.gov"
+        ],
+        "Terms of Service": [
+            "https://jobs.cdc.gov/index.html"
+        ]
+    },
+    {
+        "Company": "Yoast",
+        "Domain": [
+            "https://yoast.com"
+        ],
+        "Terms of Service": [
+            "https://yoast.com/jobs/"
+        ]
+    },
+    {
+        "Company": "Intuit",
+        "Domain": [
+            "https://intuit.com"
+        ],
+        "Terms of Service": [
+            "https://www.intuit.com/careers/"
+        ]
+    },
+    {
+        "Company": "Neil Patel",
+        "Domain": [
+            "https://neilpatel.com"
+        ],
+        "Terms of Service": [
+            "https://npdigital.com/careers/"
+        ]
+    },
+    {
+        "Company": "Spot.io",
+        "Domain": [
+            "https://spot.io"
+        ],
+        "Terms of Service": [
+            "https://spot.io/careers/"
+        ]
+    },
+    {
+        "Company": "Soho",
+        "Domain": [
+            "https://zoho.com"
+        ],
+        "Terms of Service": [
+            "https://us-careers.zohorecruit.com/jobs/Careers"
+        ]
+    },
+    {
+        "Company": "GitLab",
+        "Domain": [
+            "https://gitlab.com"
+        ],
+        "Terms of Service": [
+            "https://about.gitlab.com/jobs/"
+        ]
+    },
+    {
+        "Company": "PayPal",
+        "Domain": [
+            "https://paypal.com"
+        ],
+        "Terms of Service": [
+            "https://careers.pypl.com/home/"
+        ]
+    },
+    {
+        "Company": "Splunk",
+        "Domain": [
+            "https://splunk.com"
+        ],
+        "Terms of Service": [
+            "https://www.splunk.com/en_us/careers.html"
+        ]
+    },
+    {
+        "Company": "Green Geeks",
+        "Domain": [
+            "https://greengeeks.com"
+        ],
+        "Terms of Service": [
+            "https://careers.greengeeks.com/"
+        ]
+    },
+    {
+        "Company": "Buffer",
+        "Domain": [
+            "https://buffer.com"
+        ],
+        "Terms of Service": [
+            "https://buffer.com/journey"
+        ]
+    },
+    {
+        "Company": "Liquid Web",
+        "Domain": [
+            "https://liquidweb.com"
+        ],
+        "Terms of Service": [
+            "https://www.liquidweb.com/careers/"
+        ]
+    },
+    {
+        "Company": "Constant Contact",
+        "Domain": [
+            "https://constantcontact.com"
+        ],
+        "Terms of Service": [
+            "https://www.constantcontact.com/careers"
+        ]
+    },
+    {
+        "Company": "F5",
+        "Domain": [
+            "https://f5.com"
+        ],
+        "Terms of Service": [
+            "https://www.f5.com/company/careers"
+        ]
+    },
+    {
+        "Company": "Issuu",
+        "Domain": [
+            "https://issuu.com"
+        ],
+        "Terms of Service": [
+            "https://issuu.com/careers"
+        ]
+    },
+    {
+        "Company": "Openstack",
+        "Domain": [
+            "https://openstack.org"
+        ],
+        "Terms of Service": [
+            "https://www.openstack.org/community/jobs/"
+        ]
+    },
+    {
+        "Company": "Snowflake",
+        "Domain": [
+            "https://tosnowflake.com"
+        ],
+        "Terms of Service": [
+            "https://careers.snowflake.com/us/en"
+        ]
+    },
+    {
+        "Company": "Cloudinary",
+        "Domain": [
+            "https://cloudinary.com"
+        ],
+        "Terms of Service": [
+            "https://cloudinary.com/careers"
+        ]
+    },
+    {
+        "Company": "Blubrry",
+        "Domain": [
+            "https://blubrry.com"
+        ],
+        "Terms of Service": [
+            "https://careers.blubrry.com/"
+        ]
+    },
+    {
+        "Company": "RingCentral",
+        "Domain": [
+            "https://ringcentral.com"
+        ],
+        "Terms of Service": [
+            "https://www.ringcentral.com/company/careers/overview.html"
+        ]
+    },
+    {
+        "Company": "Calendly",
+        "Domain": [
+            "https://calendly.com"
+        ],
+        "Terms of Service": [
+            "https://careers.calendly.com/"
+        ]
+    },
+    {
+        "Company": "Docker",
+        "Domain": [
+            "https://docker.com"
+        ],
+        "Terms of Service": [
+            "https://www.docker.com/careers/"
+        ]
+    },
+    {
+        "Company": "Aggregage",
+        "Domain": [
+            "https://aggregage.com"
+        ],
+        "Terms of Service": [
+            "https://www.aggregage.com/jobs/"
+        ]
+    },
+    {
+        "Company": "Atlassian",
+        "Domain": [
+            "https://atlassian.com"
+        ],
+        "Terms of Service": [
+            "https://www.atlassian.com/company/careers"
+        ]
+    },
+    {
+        "Company": "Hewlett Packard Enterprise",
+        "Domain": [
+            "https://hpe.com"
+        ],
+        "Terms of Service": [
+            "https://careers.hpe.com/us/en"
+        ]
+    },
+    {
+        "Company": "Asana",
+        "Domain": [
+            "https://asana.com"
+        ],
+        "Terms of Service": [
+            "https://asana.com/jobs/all"
+        ]
+    },
+    {
+        "Company": "Elegant Themes",
+        "Domain": [
+            "https://elegantthemes.com"
+        ],
+        "Terms of Service": [
+            "https://www.elegantthemes.com/careers/"
+        ]
+    },
+    {
+        "Company": "Statista",
+        "Domain": [
+            "https://statista.com"
+        ],
+        "Terms of Service": [
+            "https://www.statista.com/career/"
+        ]
+    },
+    {
+        "Company": "Bloomberg",
+        "Domain": [
+            "https://bloomberg.com"
+        ],
+        "Terms of Service": [
+            "https://careers.bloomberg.com/job/search/"
+        ]
+    },
+    {
+        "Company": "GTmetrix",
+        "Domain": [
+            "https://gtmetrix.com"
+        ],
+        "Terms of Service": [
+            "https://gtmetrix.com/careers.html"
+        ]
+    },
+    {
+        "Company": "SHRM",
+        "Domain": [
+            "https://shrm.org"
+        ],
+        "Terms of Service": [
+            "https://www.shrm.org/about/careers-at-shrm"
+        ]
+    },
+    {
+        "Company": "Skype",
+        "Domain": [
+            "https://skype.com"
+        ],
+        "Terms of Service": [
+            "https://careers.microsoft.com/v2/global/en/home.html"
+        ]
+    },
+    {
+        "Company": "Behance",
+        "Domain": [
+            "https://behance.net"
+        ],
+        "Terms of Service": [
+            "https://www.behance.net/careers"
+        ]
+    },
+    {
+        "Company": "Blender",
+        "Domain": [
+            "https://blender.org"
+        ],
+        "Terms of Service": [
+            "https://www.blender.org/jobs/"
+        ]
+    },
+    {
+        "Company": "Zapier",
+        "Domain": [
+            "https://zapier.com"
+        ],
+        "Terms of Service": [
+            "https://zapier.com/jobs"
+        ]
+    },
+    {
+        "Company": "Gartner",
+        "Domain": [
+            "https://gartner.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.gartner.com/"
+        ]
+    },
+    {
+        "Company": "Stat Counter",
+        "Domain": [
+            "https://statcounter.com"
+        ],
+        "Terms of Service": [
+            "https://statcounter.com/careers/"
+        ]
+    },
+    {
+        "Company": "OVH Cloud",
+        "Domain": [
+            "https://ovhcloud.com"
+        ],
+        "Terms of Service": [
+            "https://us.ovhcloud.com/about/careers/"
+        ]
+    },
+    {
+        "Company": "BiggerPockets",
+        "Domain": [
+            "https://biggerpockets.com"
+        ],
+        "Terms of Service": [
+            "https://www.biggerpockets.com/careers"
+        ]
+    },
+    {
+        "Company": "1Password",
+        "Domain": [
+            "https://1password.com"
+        ],
+        "Terms of Service": [
+            "https://1password.com/careers"
+        ]
+    },
+    {
+        "Company": "Campaign Monitor",
+        "Domain": [
+            "https://campaignmonitor.com"
+        ],
+        "Terms of Service": [
+            "https://www.campaignmonitor.com/company/careers/"
+        ]
+    },
+    {
+        "Company": "Workday",
+        "Domain": [
+            "https://workday.com"
+        ],
+        "Terms of Service": [
+            "https://www.workday.com/en-us/company/careers/overview.html"
+        ]
+    },
+    {
+        "Company": "Twitch",
+        "Domain": [
+            "https://twitch.tv"
+        ],
+        "Terms of Service": [
+            "https://www.twitch.tv/jobs/en/"
+        ]
+    },
+    {
+        "Company": "2Checkout",
+        "Domain": [
+            "https://2checkout.com"
+        ],
+        "Terms of Service": [
+            "https://www.2checkout.com/careers/"
+        ]
+    },
+    {
+        "Company": "Ivoox",
+        "Domain": [
+            "https://ivoox.com"
+        ],
+        "Terms of Service": [
+            "https://www.ivoox.com/en/careers"
+        ]
+    },
+    {
+        "Company": "BigCommerce",
+        "Domain": [
+            "https://bigcommerce.com"
+        ],
+        "Terms of Service": [
+            "https://careers.bigcommerce.com/"
+        ]
+    },
+    {
+        "Company": "WooCommerce",
+        "Domain": [
+            "https://woocommerce.com"
+        ],
+        "Terms of Service": [
+            "https://woocommerce.com/careers/"
+        ]
+    },
+    {
+        "Company": "Pythian",
+        "Domain": [
+            "https://pythian.com"
+        ],
+        "Terms of Service": [
+            "https://www.pythian.com/careers"
+        ]
+    },
+    {
+        "Company": "Close.com",
+        "Domain": [
+            "https://close.com"
+        ],
+        "Terms of Service": [
+            "https://www.close.com/careers"
+        ]
+    },
+    {
+        "Company": "Synopsys",
+        "Domain": [
+            "https://synopsys.com"
+        ],
+        "Terms of Service": [
+            "https://www.synopsys.com/careers.html"
+        ]
+    },
+    {
+        "Company": "Hopin",
+        "Domain": [
+            "https://hopin.com"
+        ],
+        "Terms of Service": [
+            "https://mp.hopin.com/careers"
+        ]
+    },
+    {
+        "Company": "Siemens",
+        "Domain": [
+            "https://siemens.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.siemens.com/careers"
+        ]
+    },
+    {
+        "Company": "Squarespace",
+        "Domain": [
+            "https://squarespace.com"
+        ],
+        "Terms of Service": [
+            "https://www.squarespace.com/about/careers"
+        ]
+    },
+    {
+        "Company": "Quora",
+        "Domain": [
+            "https://quora.com"
+        ],
+        "Terms of Service": [
+            "https://www.careers.quora.com/?share=1"
+        ]
+    },
+    {
+        "Company": "Feedly",
+        "Domain": [
+            "https://feedly.com"
+        ],
+        "Terms of Service": [
+            "https://feedly.com/homepage"
+        ]
+    },
+    {
+        "Company": "Autodesk",
+        "Domain": [
+            "https://autodesk.com"
+        ],
+        "Terms of Service": [
+            "https://www.autodesk.com/careers/overview"
+        ]
+    },
+    {
+        "Company": "Twilio",
+        "Domain": [
+            "https://twilio.com"
+        ],
+        "Terms of Service": [
+            "https://www.twilio.com/en-us/company/jobs"
+        ]
+    },
+    {
+        "Company": "Adroll",
+        "Domain": [
+            "https://adroll.com"
+        ],
+        "Terms of Service": [
+            "https://www.nextroll.com/careers"
+        ]
+    },
+    {
+        "Company": "SurveyMonkey",
+        "Domain": [
+            "https://surveymonkey.com"
+        ],
+        "Terms of Service": [
+            "https://www.surveymonkey.com/careers/"
+        ]
+    },
+    {
+        "Company": "Iubenda",
+        "Domain": [
+            "https://iubenda.com"
+        ],
+        "Terms of Service": [
+            "https://careers.iubenda.com/"
+        ]
+    },
+    {
+        "Company": "Notion",
+        "Domain": [
+            "https://notion.so"
+        ],
+        "Terms of Service": [
+            "https://boards.greenhouse.io/notion"
+        ]
+    },
+    {
+        "Company": "NGINX",
+        "Domain": [
+            "https://nginx.com"
+        ],
+        "Terms of Service": [
+            "https://www.nginx.com/careers/"
+        ]
+    },
+    {
+        "Company": "Eventbrite",
+        "Domain": [
+            "https://eventbrite.com"
+        ],
+        "Terms of Service": [
+            "https://www.eventbritecareers.com/home"
+        ]
+    },
+    {
+        "Company": "On24",
+        "Domain": [
+            "https://on24.com"
+        ],
+        "Terms of Service": [
+            "https://www.on24.com/about-us/careers/"
+        ]
+    },
+    {
+        "Company": "Box",
+        "Domain": [
+            "https://box.com"
+        ],
+        "Terms of Service": [
+            "https://careers.box.com/en/us-home/"
+        ]
+    },
+    {
+        "Company": "Talend",
+        "Domain": [
+            "https://talend.com"
+        ],
+        "Terms of Service": [
+            "https://www.talend.com/about-us/careers/"
+        ]
+    },
+    {
+        "Company": "Sprout Social",
+        "Domain": [
+            "https://sproutsocial.com"
+        ],
+        "Terms of Service": [
+            "https://sproutsocial.com/careers/"
+        ]
+    },
+    {
+        "Company": "MongoDB",
+        "Domain": [
+            "https://mongodb.com"
+        ],
+        "Terms of Service": [
+            "https://www.mongodb.com/company/careers"
+        ]
+    },
+    {
+        "Company": "Couchbase",
+        "Domain": [
+            "https://couchbase.com"
+        ],
+        "Terms of Service": [
+            "https://www.couchbase.com/careers/"
+        ]
+    },
+    {
+        "Company": "CVENT",
+        "Domain": [
+            "https://cvent.com"
+        ],
+        "Terms of Service": [
+            "https://careers.cvent.com/"
+        ]
+    },
+    {
+        "Company": "Yelp",
+        "Domain": [
+            "https://yelp.com"
+        ],
+        "Terms of Service": [
+            "https://www.yelp.careers/us/en"
+        ]
+    },
+    {
+        "Company": "HashiCorp",
+        "Domain": [
+            "https://hashicorp.com"
+        ],
+        "Terms of Service": [
+            "https://www.hashicorp.com/careers"
+        ]
+    },
+    {
+        "Company": "Figma",
+        "Domain": [
+            "https://figma.com"
+        ],
+        "Terms of Service": [
+            "https://www.figma.com/careers/"
+        ]
+    },
+    {
+        "Company": "Hotjar",
+        "Domain": [
+            "https://hotjar.com"
+        ],
+        "Terms of Service": [
+            "https://www.hotjar.com/careers/"
+        ]
+    },
+    {
+        "Company": "Wordstream",
+        "Domain": [
+            "https://wordstream.com"
+        ],
+        "Terms of Service": [
+            "https://www.woodstream.com/careers"
+        ]
+    },
+    {
+        "Company": "Heroku",
+        "Domain": [
+            "https://heroku.com"
+        ],
+        "Terms of Service": [
+            "https://www.heroku.com/careers"
+        ]
+    },
+    {
+        "Company": "Write",
+        "Domain": [
+            "https://wrike.com"
+        ],
+        "Terms of Service": [
+            "https://www.wrike.com/jobs/"
+        ]
+    },
+    {
+        "Company": "LastPass",
+        "Domain": [
+            "https://lastpass.com"
+        ],
+        "Terms of Service": [
+            "https://www.lastpass.com/company/careers"
+        ]
+    },
+    {
+        "Company": "Stripe",
+        "Domain": [
+            "https://stripe.com"
+        ],
+        "Terms of Service": [
+            "https://stripe.com/jobs"
+        ]
+    },
+    {
+        "Company": "Kickstarter",
+        "Domain": [
+            "https://kickstarter.com"
+        ],
+        "Terms of Service": [
+            "https://jobs.kickstarter.com/"
+        ]
+    },
+    {
+        "Company": "Time Doctor",
+        "Domain": [
+            "https://timedoctor.com"
+        ],
+        "Terms of Service": [
+            "https://www.timedoctor.com/jobs"
+        ]
+    },
+    {
+        "Company": "Tableau",
+        "Domain": [
+            "https://tableau.com"
+        ],
+        "Terms of Service": [
+            "https://www.tableau.com/about/careers"
+        ]
+    },
+    {
+        "Company": "Intercom",
+        "Domain": [
+            "https://intercom.com"
+        ],
+        "Terms of Service": [
+            "https://www.intercom.com/careers"
+        ]
+    },
+    {
+        "Company": "Marketo",
+        "Domain": [
+            "https://marketo.com"
+        ],
+        "Terms of Service": [
+            "https://careerconnect.marketo.com/"
+        ]
+    },
+    {
+        "Company": "Orange",
+        "Domain": [
+            "https://orange.com"
+        ],
+        "Terms of Service": [
+            "https://orange.jobs/site/en-home/"
+        ]
+    },
+    {
+        "Company": "Optimizely",
+        "Domain": [
+            "https://optimizely.com"
+        ],
+        "Terms of Service": [
+            "https://careers.optimizely.com/"
+        ]
+    },
+    {
+        "Company": "Elastic",
+        "Domain": [
+            "https://elastic.co"
+        ],
+        "Terms of Service": [
+            "https://www.elastic.co/careers"
+        ]
+    },
+    {
+        "Company": "Grammarly",
+        "Domain": [
+            "https://grammarly.com"
+        ],
+        "Terms of Service": [
+            "https://www.grammarly.com/jobs"
+        ]
+    },
+    {
+        "Company": "Progress",
+        "Domain": [
+            "https://progress.com"
+        ],
+        "Terms of Service": [
+            "https://www.progress.com/company/careers"
+        ]
+    },
+    {
+        "Company": "Snapchat",
+        "Domain": [
+            "https://snapchat.com"
+        ],
+        "Terms of Service": [
+            "https://careers.snap.com/"
+        ]
+    },
+    {
+        "Company": "Lever",
+        "Domain": [
+            "https://lever.co"
+        ],
+        "Terms of Service": [
+            "https://www.lever.co/open-positions/?filtered=1"
+        ]
+    },
+    {
+        "Company": "Veeam",
+        "Domain": [
+            "https://veeam.com"
+        ],
+        "Terms of Service": [
+            "https://careers.veeam.com/"
+        ]
+    },
+    {
+        "Company": "Trend Micro",
+        "Domain": [
+            "https://trendmicro.com"
+        ],
+        "Terms of Service": [
+            "https://www.trendmicro.com/en_us/about/careers.html"
+        ]
+    },
+    {
+        "Company": "Snowflake",
+        "Domain": [
+            "https://snowflake.com"
+        ],
+        "Terms of Service": [
+            "https://careers.snowflake.com/us/en"
+        ]
+    },
+    {
+        "Company": "Infoblox",
+        "Domain": [
+            "https://infoblox.com"
+        ],
+        "Terms of Service": [
+            "https://www.infoblox.com/company/careers/"
+        ]
+    },
+    {
+        "Company": "Monday.com",
+        "Domain": [
+            "https://monday.com"
+        ],
+        "Terms of Service": [
+            "https://monday.com/careers"
+        ]
+    },
+    {
+        "Company": "Airtable",
+        "Domain": [
+            "https://airtable.com"
+        ],
+        "Terms of Service": [
+            "https://airtable.com/careers"
+        ]
+    },
+    {
+        "Company": "Netlify",
+        "Domain": [
+            "https://netlify.com"
+        ],
+        "Terms of Service": [
+            "https://www.netlify.com/careers/"
+        ]
+    }
+]
